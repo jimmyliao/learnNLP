@@ -1,0 +1,22 @@
+(S
+  (NE Alan/NNP Spoon/NNP)
+  ,/,
+  recently/RB
+  named/VBN
+  */-NONE-
+  Newsweek/NNP
+  president/NN
+  ,/,
+  said/VBD
+  0/-NONE-
+  (NE Newsweek/NNP)
+  's/POS
+  ad/NN
+  rates/NNS
+  would/MD
+  increase/VB
+  5/CD
+  %/NN
+  in/IN
+  January/NNP
+  ./.)

@@ -1,0 +1,23 @@
+(S
+  (PERSON Alan/NNP)
+  (GPE Spoon/NNP)
+  ,/,
+  recently/RB
+  named/VBN
+  */-NONE-
+  (GPE Newsweek/NNP)
+  president/NN
+  ,/,
+  said/VBD
+  0/-NONE-
+  (GPE Newsweek/NNP)
+  's/POS
+  ad/NN
+  rates/NNS
+  would/MD
+  increase/VB
+  5/CD
+  %/NN
+  in/IN
+  January/NNP
+  ./.)
